@@ -5,5 +5,5 @@
 -	Min_distance_calculation.py
 -	Neighbourhood_Characteristics.ipynb
 -	Entropy_processing_DMTI_data.ipynb
--	
--	Marginal Effects
+-	Survey data (the main file)
+-	Marginal Effects (post processing)
