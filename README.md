@@ -50,6 +50,7 @@ After activation, your shell prompt will change and prepend the name of the virt
 -	Min_distance_calculation.py
 -	Neighbourhood_Characteristics.ipynb
 -	Entropy_processing_DMTI_data.ipynb
+-	accessibility_impacts.ipynb
 -	Survey data (the main file)
 -	Marginal Effects (post processing)
 
