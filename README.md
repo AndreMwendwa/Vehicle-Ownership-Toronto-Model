@@ -54,6 +54,10 @@ After activation, your shell prompt will change and prepend the name of the virt
 -	Survey data (the main file)
 -	Marginal Effects (post processing)
 
+## Notes on running the GenericLogLikelihood model in statsmodels: 
+- The number of extra_params will determine the number of additioal parameters available for the likelihood function, in addition to the ones that are automatically created for each column of exog.
+- Examples:[this](https://gist.github.com/vincentarelbundock/3484300), [this](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://web.pdx.edu/~crkl/ceR/Python/example7_2.py&ved=2ahUKEwjh1O2L7Y2HAxUmHjQIHRioBno4ChAWegQIExAB&usg=AOvVaw12AYu1H4kxbXIMEMKYQLLu) 
+
 ## Authors
 
 [Mwendwa Kiko](https://www.linkedin.com/in/mwendwa-kiko/)
